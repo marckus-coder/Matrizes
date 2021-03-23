@@ -1,0 +1,13 @@
+C:\Users\watan\Matrix\Matrix.Functions\bin\Debug\netcoreapp3.1\Matrix.Functions.exe
+C:\Users\watan\Matrix\Matrix.Functions\bin\Debug\netcoreapp3.1\Matrix.Functions.deps.json
+C:\Users\watan\Matrix\Matrix.Functions\bin\Debug\netcoreapp3.1\Matrix.Functions.runtimeconfig.json
+C:\Users\watan\Matrix\Matrix.Functions\bin\Debug\netcoreapp3.1\Matrix.Functions.runtimeconfig.dev.json
+C:\Users\watan\Matrix\Matrix.Functions\bin\Debug\netcoreapp3.1\Matrix.Functions.dll
+C:\Users\watan\Matrix\Matrix.Functions\bin\Debug\netcoreapp3.1\Matrix.Functions.pdb
+C:\Users\watan\Matrix\Matrix.Functions\obj\Debug\netcoreapp3.1\Matrix.Functions.csprojAssemblyReference.cache
+C:\Users\watan\Matrix\Matrix.Functions\obj\Debug\netcoreapp3.1\Matrix.Functions.AssemblyInfoInputs.cache
+C:\Users\watan\Matrix\Matrix.Functions\obj\Debug\netcoreapp3.1\Matrix.Functions.AssemblyInfo.cs
+C:\Users\watan\Matrix\Matrix.Functions\obj\Debug\netcoreapp3.1\Matrix.Functions.csproj.CoreCompileInputs.cache
+C:\Users\watan\Matrix\Matrix.Functions\obj\Debug\netcoreapp3.1\Matrix.Functions.dll
+C:\Users\watan\Matrix\Matrix.Functions\obj\Debug\netcoreapp3.1\Matrix.Functions.pdb
+C:\Users\watan\Matrix\Matrix.Functions\obj\Debug\netcoreapp3.1\Matrix.Functions.genruntimeconfig.cache
